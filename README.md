@@ -1,9 +1,9 @@
 Mega Project List
 ========
 
-Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
+A repo for all the minor projects I will be doing from either [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) or [Project Euler](https://projecteuler.net/problems).
 
-forked from [thekarangoel's project] (https://github.com/thekarangoel/Projects)
+This README was forked and edited from [thekarangoel's project] (https://github.com/thekarangoel/Projects)
 
 Text
 ---------
