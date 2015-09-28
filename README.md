@@ -32,7 +32,7 @@ Text
 
 **Fortune Teller (Horoscope)** – A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-**Vigenere / Vernam / Ceasar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
+**Vigenere / Vernam / Caesar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
 
 **Random Gift Suggestions** – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
 
@@ -91,7 +91,7 @@ Numbers
 
 **Fortune Teller (Horoscope)** – A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-**Vigenere / Vernam / Ceasar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
+**Vigenere / Vernam / Caesar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
 
 **Random Gift Suggestions** – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
 
